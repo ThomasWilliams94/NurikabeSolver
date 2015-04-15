@@ -1,0 +1,6 @@
+c:\users\thomas\documents\visual studio 2013\Projects\NurikabeSolver\NurikabeSolver\bin\Debug\NurikabeSolver.exe.config
+c:\users\thomas\documents\visual studio 2013\Projects\NurikabeSolver\NurikabeSolver\bin\Debug\NurikabeSolver.exe
+c:\users\thomas\documents\visual studio 2013\Projects\NurikabeSolver\NurikabeSolver\bin\Debug\NurikabeSolver.pdb
+c:\users\thomas\documents\visual studio 2013\Projects\NurikabeSolver\NurikabeSolver\obj\Debug\NurikabeSolver.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2013\Projects\NurikabeSolver\NurikabeSolver\obj\Debug\NurikabeSolver.exe
+c:\users\thomas\documents\visual studio 2013\Projects\NurikabeSolver\NurikabeSolver\obj\Debug\NurikabeSolver.pdb

@@ -54,7 +54,16 @@ namespace NurikabeSolver
             }
             set
             {
-                itsCellType = value;
+                if (itsCellType == Grid.CellType.Unknown)
+                {
+                    // If it was unknown, then set it to value
+                    itsCellType = value;
+                }
+                else if(itsCellType != value) 
+                {
+                    // If they don't match up, then something's wrong
+                    Console.Error.WriteLine("Inconsistent value being assigned to already-determined cell type value... correct program.");
+                }
             }
         }
 
